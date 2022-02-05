@@ -1,0 +1,25 @@
+{
+    "name": "mqttclient",
+    "version": "1.0.0",
+    "description": "Mqtt Client for Testing purpose",
+    "main": "index.js",
+
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sivanthisuresh/mqttclient.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sivanthisuresh/mqttclient/issues"
+    },
+    "homepage": "https://github.com/sivanthisuresh/mqttclient#readme",
+    "dependencies": {
+        "mqtt": "^4.3.4"
+    }
+}
